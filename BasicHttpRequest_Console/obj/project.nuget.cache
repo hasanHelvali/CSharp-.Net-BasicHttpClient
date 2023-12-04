@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LK4aByGyFt5gRhBRSRFYKrkRQjmU/mAl+x00Y43/0W6ryWIv3l4vPt1zpCReJQ4s5K/cxsDTy99TRzEmLHZo6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hasan_Helvali\\Desktop\\BasicHttpRequest\\BasicHttpRequest_Console\\BasicHttpRequest_Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hasan_Helvali\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Lgr489CNI9+SnKMJ46vQ6y6di7l8IpFJtHL5vpI6wy4=",
+  "Source": "BasicHttpRequest_API",
+  "BasePath": "_content/BasicHttpRequest_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

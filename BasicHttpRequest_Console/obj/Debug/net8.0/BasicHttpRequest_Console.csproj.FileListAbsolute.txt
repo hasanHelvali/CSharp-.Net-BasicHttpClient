@@ -1,0 +1,17 @@
+C:\Users\Hasan_Helvali\Desktop\BasicHttpRequest\BasicHttpRequest_Console\bin\Debug\net8.0\BasicHttpRequest_Console.exe
+C:\Users\Hasan_Helvali\Desktop\BasicHttpRequest\BasicHttpRequest_Console\bin\Debug\net8.0\BasicHttpRequest_Console.deps.json
+C:\Users\Hasan_Helvali\Desktop\BasicHttpRequest\BasicHttpRequest_Console\bin\Debug\net8.0\BasicHttpRequest_Console.runtimeconfig.json
+C:\Users\Hasan_Helvali\Desktop\BasicHttpRequest\BasicHttpRequest_Console\bin\Debug\net8.0\BasicHttpRequest_Console.dll
+C:\Users\Hasan_Helvali\Desktop\BasicHttpRequest\BasicHttpRequest_Console\bin\Debug\net8.0\BasicHttpRequest_Console.pdb
+C:\Users\Hasan_Helvali\Desktop\BasicHttpRequest\BasicHttpRequest_Console\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Hasan_Helvali\Desktop\BasicHttpRequest\BasicHttpRequest_Console\obj\Debug\net8.0\BasicHttpRequest_Console.csproj.AssemblyReference.cache
+C:\Users\Hasan_Helvali\Desktop\BasicHttpRequest\BasicHttpRequest_Console\obj\Debug\net8.0\BasicHttpRequest_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan_Helvali\Desktop\BasicHttpRequest\BasicHttpRequest_Console\obj\Debug\net8.0\BasicHttpRequest_Console.AssemblyInfoInputs.cache
+C:\Users\Hasan_Helvali\Desktop\BasicHttpRequest\BasicHttpRequest_Console\obj\Debug\net8.0\BasicHttpRequest_Console.AssemblyInfo.cs
+C:\Users\Hasan_Helvali\Desktop\BasicHttpRequest\BasicHttpRequest_Console\obj\Debug\net8.0\BasicHttpRequest_Console.csproj.CoreCompileInputs.cache
+C:\Users\Hasan_Helvali\Desktop\BasicHttpRequest\BasicHttpRequest_Console\obj\Debug\net8.0\BasicHttpRequest_Console.csproj.CopyComplete
+C:\Users\Hasan_Helvali\Desktop\BasicHttpRequest\BasicHttpRequest_Console\obj\Debug\net8.0\BasicHttpRequest_Console.dll
+C:\Users\Hasan_Helvali\Desktop\BasicHttpRequest\BasicHttpRequest_Console\obj\Debug\net8.0\refint\BasicHttpRequest_Console.dll
+C:\Users\Hasan_Helvali\Desktop\BasicHttpRequest\BasicHttpRequest_Console\obj\Debug\net8.0\BasicHttpRequest_Console.pdb
+C:\Users\Hasan_Helvali\Desktop\BasicHttpRequest\BasicHttpRequest_Console\obj\Debug\net8.0\BasicHttpRequest_Console.genruntimeconfig.cache
+C:\Users\Hasan_Helvali\Desktop\BasicHttpRequest\BasicHttpRequest_Console\obj\Debug\net8.0\ref\BasicHttpRequest_Console.dll
